@@ -1,6 +1,4 @@
-# MyFirstWebSecurity(我的第一堂網站安全課)
-
-##  WebSecurity Learning Path(網站安全學習地圖)
+#  WebSecurity Learning Path(網站安全學習地圖)
 
 ```
 [高階課程:臺灣好厲駭培訓]Topic: web-security
