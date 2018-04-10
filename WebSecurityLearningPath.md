@@ -5,7 +5,8 @@
 ```
 #### 進階課程HackingWeekend
 ```
-[進階課程hackingWeekend]Web Security and the OWASP Top 10
+[進階課程hackingWeekend]Web hacking and exploitation
+Web Security and the OWASP Top 10
 >* 1~3天課程視需求動態調整內容
 >* 主要講解與實測OWASP Top 10的各種漏洞及其攻擊技術
    (如果時間許可,建議說明各種安全機制及其bypass攻擊技法)
