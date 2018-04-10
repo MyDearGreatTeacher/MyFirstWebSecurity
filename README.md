@@ -22,9 +22,9 @@
    (我的第一堂網站安全課)或已經熟悉相關主題
 >* 需上過CTF搶旗大賽(基礎入門)(FromLinuxToCTF)或略懂linux
 ```
-#### 基礎入們HappyHackingDay
+#### 基礎入門HappyHackingDay
 ```
-[基礎入們HappyhackingDay]MyFirstWebSecurity(我的第一堂網站安全課)
+[基礎入門HappyhackingDay]MyFirstWebSecurity(我的第一堂網站安全課)
 >* 3小時課程
 >* 了解HTTP協定
 >* 熟悉網站安全測試工具:developer Tools, Curl與Burpsuite
